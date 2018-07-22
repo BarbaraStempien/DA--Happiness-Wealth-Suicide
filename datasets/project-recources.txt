@@ -1,0 +1,7 @@
+* United Nations Development Programme, Human Development Report; 17 July 2018; http://hdr.undp.org/en/data 
+* Sustainable Development Solutions Network, World Happiness Report; 17 July 2018; https://www.kaggle.com/unsdsn/world-happiness 
+* The World Prison Brief(ICPR), Prison Population Rate; 17 July 2018; http://www.prisonstudies.org/highest-to-lowest/prison_population_rate?field_region_taxonomy_tid=All
+* Global Health Observatory, Suicide Mortality Rate Data by Country; 17 July 2018; http://apps.who.int/gho/data/view.main.GSWCAH22v
+* Global Health Observatory, Homicide Estimates by Country; 17 July 2018; http://apps.who.int/gho/data/view.main.VIOLENCEHOMICIDEv
+* Global Health Observatory, Recorded Alcohol Per Capita Consumption; 17 July 2018; http://apps.who.int/gho/data/view.main.52395
+* The World Bank, Population, total; 17 July 2018; https://data.worldbank.org/indicator/SP.POP.TOTL
